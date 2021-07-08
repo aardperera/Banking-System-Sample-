@@ -1,1 +1,2 @@
-# Banking-System-Sample-
+# Banking-System-Sample
+Practicing(Java NetBeans) 
